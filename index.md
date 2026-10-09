@@ -1,3 +1,8 @@
+---
+layout: default
+title: BIG DATA APLICADO (Curso 2026-27)
+---
+
 # BIG DATA APLICADO (Curso 2026-27)
 
 # Relación de contenidos y prácticas del módulo
