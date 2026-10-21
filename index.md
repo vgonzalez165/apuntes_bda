@@ -9,13 +9,13 @@ title: BIG DATA APLICADO (Curso 2026-27)
  
 |          | Título                                                                                                        | Fecha límite   | RAs   |
 | -------- | ------------------------------------------------------------------------------------------------------------- | -------------- | ----- |
-| **UT01** | **PARADIGMAS DISTRIBUIDOS**                                                                                   |                
+| **UT01** | **PARADIGMAS DISTRIBUIDOS**                                                                                   |                |       |
 |          | 1.1 [Contexto y motivación](./apuntes/ut01/01-contexto-motivacion.md)                                         |                | `RA2` |
 |          | 1.2 [Apache Hadoop](./apuntes/ut01/02-big-data-hadoop.md)                                                     |                | `RA2` |
 |          | 1.3 [Amazon Web Services](./apuntes/ut01/03-amazon-web-services.md)                                           |                | `RA2` |
 |          |                                                                                                               |                |       |
 |          | `PR0101` [Repositorio de prácticas](./practicas/ut01/pr0101.md)                                               | **xx/xx/2026** | `RA2` |
-|          |          |                                                                                                    |                |       |
+|          |                                                                                                               |                |       |
 | **UT02** | **ALMACENAMIENTO DISTRIBUIDO E INTEGRIDAD CON HDFS**                                                          |                | `RA3` |
 |          | 2.1 [Arquitectura y conceptos fundamentales de Hadoop HDFS](./apuntes/ut02/01-arquitectura-conceptos-hdfs.md) |                | `RA3` |
 |          | 2.2 [Instalación de Hadoop y HDFS](./apuntes/ut02/02-instalacion-despliegue.md)                               |                | `RA3` |
@@ -23,24 +23,43 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)                     |                | `RA3` |
 |          | 2.5 [Mecanismos de integridad y calidad del dato](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)        |                | `RA3` |
 |          |                                                                                                               |                |       |
-|          |`PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                        | **--/--/----** | `RA3` |
-|          |`PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                                | **--/--/----** | `RA3` |
-|          |`PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                                | **--/--/----** | `RA3` |
-|            |                                                                                                             |                |       |
-| **UT03**   |**ALMACENAMIENTO DISTRIBUIDO EN CLOUD CON AMAZON S3**                                                        |                | `RA1` |
-|            |                                                                                                             |                |       |
-| **UT04**   |**INGESTA DE DATOS TRADICIONAL**                                                                             |                | `RA1` |
-|            |                                                                                                             |                |       |
-| **UT05**   |**INGESTA DE DATOS EN ENTORNOS CLOUD**                                                                       |                | `RA1` |
-|            |                                                                                                             |                |       |
-| **UT06**   |**PROCESAMIENTO DE DATOS DISTRIBUIDOS EN SPARK**                                                             |                | `RA1` |
-|            |                                                                                                             |                |       |
-| **UT07**   |**MONITORIZACIÓN, FIABILIDAD Y RENDIMIENTO DEL SISTEMA**                                                     |                | `RA4` |
-|            |                                                                                                             |                |       |
-| **UT08**   |**ANALÍTICA DE DATOS Y SIMULACIÓN DE MODELOS BI**                                                            |                | `RA5` |
-|            |                                                                                                             |                |       |
-|            |**PROYECTO**                                                                                                 |                |       |
-|            | [Proyecto BDA Curso 2026-27(Pendiente)]()                                                                   |                | `-`   |
+|          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **--/--/----** | `RA3` |
+|          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **--/--/----** | `RA3` |
+|          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **--/--/----** | `RA3` |
+|          |                                                                                                               |                |       |
+| **UT03** | **DATA LAKES Y ALMACENAMIENTO DISTRIBUIDO EN CLOUD CON AMAZON S3**                                            |                | `RA1` |
+|          | 3.1 [Del Data Warehouse al Data Lake]()                                                                       |                | `RA1` |
+|          | 3.2 [Almacenamiento de objetos a escala con AWS S3]()                                                         |                | `RA1` |
+|          | 3.3 [Formatos de ficheros distribuidos y compresión]()                                                        |                | `RA1` |
+|          | 3.4 [Estrategias de organización y particionado]()                                                            |                | `RA1` |
+|          |                                                                                                               |                |       |
+| **UT04** | **INGESTA DE DATOS EN ENTORNOS DISTRIBUIDOS**                                                                 |                | `RA1` |
+|          | 4.1 [Fundamentos y patrones de ingesta en Big Data]()                                                         |                | `RA1` |
+|          | 4.2 [Ingesta estructurada On-Premise: Apache Sqoop]()                                                         |                | `RA1` |
+|          | 4.3 [Ingesta de logs y flujos continuos On-Premise: Apache Flume]()                                           |                | `RA1` |
+|          | 4.4 [Ingesta serverles y arquitecturas dirigidas a eventos en AWS]()                                          |                | `RA1` |
+|          | 4.5 [Catalogación y extracción gestionada: AWS Glue]()                                                        |                | `RA1` |
+|          | 4.6 [Ingesta en streaming a gran escala: Amazon Kinesis]()                                                    |                | `RA1` |
+|          |                                                                                                               |                |       |
+| **UT05** | **PROCESAMIENTO DE DATOS DISTRIBUIDOS EN SPARK**                                                              |                | `RA1` |
+|          | 5.1 []()                                                                                                      |                | `RA1` |
+|          |                                                                                                               |                |       |
+| **UT06** | **MONITORIZACIÓN, FIABILIDAD Y RENDIMIENTO DEL SISTEMA**                                                      |                | `RA4` |
+|          | 6.1 [Fundamentos de observabilidad en entornos distribuidos]()                                                |                | `RA1` |
+|          | 6.2 [Monitorización del ecosistema Hadoop]()                                                                  |                | `RA1` |
+|          | 6.3 [Monitorización en cloud: AWS CloudWatch]()                                                               |                | `RA1` |
+|          | 6.4 [Getsión de alarmas y notificaciones]()                                                                   |                | `RA1` |
+|          |                                                                                                               |                |       |
+| **UT07** | **ANALÍTICA DE DATOS Y SIMULACIÓN DE MODELOS BI**                                                             |                | `RA5` |
+|          | 7.1 []()                                                                                                      |                | `RA1` |
+|          | 7.2 []()                                                                                                      |                | `RA1` |
+|          | 7.3 []()                                                                                                      |                | `RA1` |
+|          | 7.4 []()                                                                                                      |                | `RA1` |
+|          | 7.5 []()                                                                                                      |                | `RA1` |
+|          | 7.6 []()                                                                                                      |                | `RA1` |
+|          |                                                                                                               |                |       |
+|          | **PROYECTO**                                                                                                  |                |       |
+|          | [Proyecto BDA Curso 2026-27(Pendiente)]()                                                                     |                | `-`   |
 
 
 ## Resultados de aprendizaje del módulo
