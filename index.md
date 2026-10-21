@@ -52,3 +52,4 @@ title: BIG DATA APLICADO (Curso 2026-27)
 - `RA5`. Valida las técnicas de Big Data para transformar una gran cantidad de datos en información significativa, facilitando la toma de decisiones de negocios
 
 
+      <property>          <name>dfs.namenode.name.dir</name>          <value>file:/opt/hadoop/workspace/dfs/name</value>          <description>Ruta almacenamiento metadatos</description>      </property>      <property>          <name>dfs.datanode.data.dir</name>          <value>file:/opt/hadoop/workspace/dfs/data</value>          <description>Ruta almacenamiento de los bloques</description>      </property>      <property>          <name>dfs.replication</name>          <value>1</value>          <description>Factor de replicación.</description>      </property>
