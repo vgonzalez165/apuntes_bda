@@ -21,11 +21,13 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 2.2 [Instalación de Hadoop y HDFS](./apuntes/ut02/02-instalacion-despliegue.md)                               |                | `RA3` |
 |          | 2.3 [Configuración y puesta en marcha de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)           |                | `RA3` |
 |          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)                     |                | `RA3` |
-|          | 2.5 [Mecanismos de integridad y calidad del dato](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)        |                | `RA3` |
+|          | 2.5 [Dockerizando Hadoop](./apuntes/ut02/05-hadoop-docker.md)                                                 |                | `RA3` |
+|          | 2.6 [Acceso a Hadoop desde Docker](./apuntes/ut02/06-hadoop-python.md)                                        |                | `RA3` |
 |          |                                                                                                               |                |       |
-|          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **--/--/----** | `RA3` |
-|          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **--/--/----** | `RA3` |
-|          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **--/--/----** | `RA3` |
+|          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **29/10/2026** | `RA3` |
+|          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **29/10/2026** | `RA3` |
+|          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **-OPCIONAL-** | `RA3` |
+|          | `PR0204` [Pipeline de ingesta y procesamiento en Data Lake con HDFS](./practicas/ut02/pr0204.md)              | **--/--/----** | `RA3` |
 |          |                                                                                                               |                |       |
 | **UT03** | **DATA LAKES Y ALMACENAMIENTO DISTRIBUIDO EN CLOUD CON AMAZON S3**                                            |                | `RA1` |
 |          | 3.1 [Del Data Warehouse al Data Lake]()                                                                       |                | `RA1` |

@@ -9,7 +9,7 @@ Apartado:                   1.- Arquitectura y conceptos fundamentales de Hadoop
 Resultados de aprendizaje:  RA3
 ```
 
-# UT01: ALMACENAMIENTO DISTRIBUIDO E INTEGRIDAD DE DATOS
+# UT02: ALMACENAMIENTO DISTRIBUIDO E INTEGRIDAD DE DATOS
 
 ## 1. Arquitectura y conceptos fundamentales de Hadoop HDFS
 
