@@ -20,7 +20,7 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 2.1 [Arquitectura y conceptos fundamentales de Hadoop HDFS](./apuntes/ut02/01-arquitectura-conceptos-hdfs.md) |                | `RA3` |
 |          | 2.2 [Instalación de Hadoop y HDFS](./apuntes/ut02/02-instalacion-despliegue.md)                               |                | `RA3` |
 |          | 2.3 [Configuración y puesta en marcha de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)           |                | `RA3` |
-|          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)                     |                | `RA3` |
+|          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/04-cli-hdfs-administracion.md)                     |                | `RA3` |
 |          | 2.5 [Dockerizando Hadoop](./apuntes/ut02/05-hadoop-docker.md)                                                 |                | `RA3` |
 |          | 2.6 [Acceso a Hadoop desde Docker](./apuntes/ut02/06-hadoop-python.md)                                        |                | `RA3` |
 |          |                                                                                                               |                |       |
