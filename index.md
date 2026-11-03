@@ -26,7 +26,7 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          |                                                                                                               |                |       |
 |          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **29/10/2026** | `RA3` |
 |          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **29/10/2026** | `RA3` |
-|          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **-OPCIONAL-** | `RA3` |
+|          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **OPCIONAL**   | `RA3` |
 |          | `PR0204` [Pipeline de ingesta y procesamiento en Data Lake con HDFS](./practicas/ut02/pr0204.md)              | **--/--/----** | `RA3` |
 |          |                                                                                                               |                |       |
 | **UT03** | **DATA LAKES Y ALMACENAMIENTO DISTRIBUIDO EN CLOUD CON AMAZON S3**                                            |                | `RA1` |
