@@ -30,10 +30,10 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | `PR0204` [Pipeline de ingesta y procesamiento en Data Lake con HDFS](./practicas/ut02/pr0204.md)              | **--/--/----** | `RA3` |
 |          |                                                                                                               |                |       |
 | **UT03** | **DATA LAKES Y ALMACENAMIENTO DISTRIBUIDO EN CLOUD CON AMAZON S3**                                            |                | `RA1` |
-|          | 3.1 [Del Data Warehouse al Data Lake]()                                                                       |                | `RA1` |
-|          | 3.2 [Almacenamiento de objetos a escala con AWS S3]()                                                         |                | `RA1` |
-|          | 3.3 [Formatos de ficheros distribuidos y compresión]()                                                        |                | `RA1` |
-|          | 3.4 [Estrategias de organización y particionado]()                                                            |                | `RA1` |
+|          | 3.1 [Object Storage con AWS S3](./apuntes/ut03/01-object-storage.md)                                          |                | `RA1` |
+|          | 3.2 [Diseño de DataLakes](./apuntes/ut03/02-diseno-datalakes.md)                                              |                | `RA1` |
+|          | 3.3 [Acceso a S3 desde Python](./apuntes/ut03/03-s3-python.md)                                                |                | `RA1` |
+|          | 3.4 [Formatos optimizados]()                                                                                  |                | `RA1` |
 |          |                                                                                                               |                |       |
 | **UT04** | **INGESTA DE DATOS EN ENTORNOS DISTRIBUIDOS**                                                                 |                | `RA1` |
 |          | 4.1 [Fundamentos y patrones de ingesta en Big Data]()                                                         |                | `RA1` |
