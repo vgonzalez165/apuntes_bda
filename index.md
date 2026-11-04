@@ -14,18 +14,18 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 1.2 [Apache Hadoop](./apuntes/ut01/02-big-data-hadoop.md)                                                     |                | `RA2` |
 |          | 1.3 [Amazon Web Services](./apuntes/ut01/03-amazon-web-services.md)                                           |                | `RA2` |
 |          |                                                                                                               |                |       |
-|          | `PR0101` [Repositorio de prácticas](./practicas/ut01/pr0101.md)                                               | **xx/xx/2026** | `RA2` |
+|          | `PR0101` [Repositorio de prácticas](./practicas/ut01/pr0101.md)                                               | **08/11/2026** | `RA2` |
 |          |                                                                                                               |                |       |
 | **UT02** | **ALMACENAMIENTO DISTRIBUIDO E INTEGRIDAD CON HDFS**                                                          |                | `RA3` |
 |          | 2.1 [Arquitectura y conceptos fundamentales de Hadoop HDFS](./apuntes/ut02/01-arquitectura-conceptos-hdfs.md) |                | `RA3` |
 |          | 2.2 [Instalación de Hadoop y HDFS](./apuntes/ut02/02-instalacion-despliegue.md)                               |                | `RA3` |
 |          | 2.3 [Configuración y puesta en marcha de HDFS](./apuntes/ut02/03-configuracion-puesta-en-marcha.md)           |                | `RA3` |
-|          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/04-cli-hdfs-administracion.md)                     |                | `RA3` |
+|          | 2.4 [Comandos básicos y CLI de HDFS](./apuntes/ut02/04-cli-hdfs-administracion.md)                            |                | `RA3` |
 |          | 2.5 [Dockerizando Hadoop](./apuntes/ut02/05-hadoop-docker.md)                                                 |                | `RA3` |
 |          | 2.6 [Acceso a Hadoop desde Docker](./apuntes/ut02/06-hadoop-python.md)                                        |                | `RA3` |
 |          |                                                                                                               |                |       |
-|          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **29/10/2026** | `RA3` |
-|          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **29/10/2026** | `RA3` |
+|          | `PR0201` [Instalación de Hadoop en modo pseudo-distribuido](./practicas/ut02/pr0201.md)                       | **08/11/2026** | `RA3` |
+|          | `PR0202` [Uso del cliente HDFS (1)](./practicas/ut02/pr0202.md)                                               | **08/11/2026** | `RA3` |
 |          | `PR0203` [Uso del cliente HDFS (2)](./practicas/ut02/pr0203.md)                                               | **OPCIONAL**   | `RA3` |
 |          | `PR0204` [Pipeline de ingesta y procesamiento en Data Lake con HDFS](./practicas/ut02/pr0204.md)              | **--/--/----** | `RA3` |
 |          |                                                                                                               |                |       |
