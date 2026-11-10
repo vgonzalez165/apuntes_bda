@@ -35,6 +35,8 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 3.3 [Acceso a S3 desde Python](./apuntes/ut03/03-s3-python.md)                                                |                | `RA1` |
 |          | 3.4 [Formatos optimizados]()                                                                                  |                | `RA1` |
 |          |                                                                                                               |                |       |
+|          | `PR0301` [Ingesta en Data Lake (Capa Bronce) sobre Amazon S3](./practicas/ut03/pr0301.md)                     | **--/--/----** | `RA1` |
+|          |                                                                                                               |                |       |
 | **UT04** | **INGESTA DE DATOS EN ENTORNOS DISTRIBUIDOS**                                                                 |                | `RA1` |
 |          | 4.1 [Fundamentos y patrones de ingesta en Big Data]()                                                         |                | `RA1` |
 |          | 4.2 [Ingesta estructurada On-Premise: Apache Sqoop]()                                                         |                | `RA1` |
