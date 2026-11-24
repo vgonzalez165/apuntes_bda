@@ -36,6 +36,7 @@ title: BIG DATA APLICADO (Curso 2026-27)
 |          | 3.4 [Formatos optimizados]()                                                                                  |                | `RA1` |
 |          |                                                                                                               |                |       |
 |          | `PR0301` [Ingesta en Data Lake (Capa Bronce) sobre Amazon S3](./practicas/ut03/pr0301.md)                     | **--/--/----** | `RA1` |
+|          | `PR0302` [Transformación a capa plata en Parquet](./practicas/ut03/pr0302.md)                     | **--/--/----** | `RA1` |
 |          |                                                                                                               |                |       |
 | **UT04** | **INGESTA DE DATOS EN ENTORNOS DISTRIBUIDOS**                                                                 |                | `RA1` |
 |          | 4.1 [Fundamentos y patrones de ingesta en Big Data]()                                                         |                | `RA1` |
